@@ -3,7 +3,7 @@ A responsive portfolio website showcasing my skills, projects, and experience as
 # 🌐 Personal Portfolio Website  
 
 ### 🚀 Live Demo  
-🔗 [View My Portfolio](https://yourusername.github.io/your-repository-name/)  
+🔗 [View My Portfolio](https://sakthivel-007.github.io/MY_PORTFOLIO/)  
 
 ### 📌 About  
 This is my **personal portfolio website**, showcasing my **skills, projects, and experience** as a frontend developer. Built with:  
